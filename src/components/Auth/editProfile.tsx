@@ -43,7 +43,7 @@ const EditProfile = () => {
       <div className=" bg-slate-900">
            <Header />
         <div className=" pt-11">
-        <h2 className="text-3xl underline font-bold font-mono text-slate-300 text-center pb-5">Edit Acount Details</h2>
+        <h2 className="text-3xl underline font-bold font-mono text-slate-300 text-center pb-5">Edit Account Details</h2>
 
         <form className="container flex flex-col gap-11 border-2 p-11 
                         rounded-xl bg-slate-800 border-slate-700 

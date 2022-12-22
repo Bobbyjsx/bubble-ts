@@ -10,7 +10,7 @@ export const Greetings=()=>{
     return(
         <div className=" bg-slate-900 pt-11">
         <div
-         className="w-3/5 text-start  flex flex-col gap-4 mx-auto  border-2 p-11 
+         className="w-3/5 wel text-start  flex flex-col gap-4 mx-auto  border-2 p-11 
          rounded-xl bg-slate-800 border-slate-700 pt-7 flex-wrap">
           <p className="text-xl text-slate-300">
             Welcome to Bubble! We're so glad you've decided to visit our website and learn more about our insurance products. At Bubble, we believe that insurance should be simple, affordable, and accessible to everyone. That's why we've created a range of insurance products that cater to a variety of different needs and budgets
